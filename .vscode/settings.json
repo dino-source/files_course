@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./M3_Working_with_Files_and_Folders"
+    ]
+}
